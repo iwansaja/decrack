@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "decrack.mxxx50.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "mxxx50.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "decrack"; // Ganti dengan nama workers kalian
 const apiKey = "8bd220a14f95212cce40841c74a35d081fa52"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "mxxx50@gmail.com"; // Ganti dengan email yang kalian gunakan
